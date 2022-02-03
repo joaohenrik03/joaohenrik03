@@ -1,9 +1,9 @@
 ## Olá, eu sou o João Henrik, um apaixonado por programação! 
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/joaohenrik03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrik03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrik03&layout=compact&langs_count=3&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaohenrik03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrik03&layout=compact&langs_count=3&theme=algolia"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
