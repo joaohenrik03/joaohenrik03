@@ -1,4 +1,4 @@
-## Olá, eu sou o João Henrik, um apaixonado por programação! 
+## Hello, I'm João Henrik, a young man passionate about programming!
 
 <div align="center">
   <a href="https://github.com/joaohenrik03">
